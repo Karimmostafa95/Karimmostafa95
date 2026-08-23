@@ -1,0 +1,27 @@
+<svg viewBox="0 0 1200 190" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="190" fill="#0B0F14"/>
+<defs><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#1B232C"/></pattern></defs>
+<rect width="1200" height="190" fill="url(#grid)"/>
+<defs><linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#E8A33D"/><stop offset="55%" stop-color="#E8A33D"/><stop offset="100%" stop-color="#4FD1C5"/></linearGradient></defs>
+<rect width="1200" height="3" fill="url(#edge)"/>
+<text x="600" y="60" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="24" fill="#E9EEF3">LET&#8217;S BUILD SOMETHING TOGETHER</text>
+<circle cx="410.0" cy="125" r="26" fill="#111820" stroke="#E8A33D" stroke-width="1.6"/>
+<text x="410.0" y="132" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="20" fill="#E8A33D">in</text>
+<text x="410.0" y="168" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="13" letter-spacing="0.5" fill="#8DA0B0">LinkedIn</text>
+<circle cx="600.0" cy="125" r="26" fill="#111820" stroke="#4FD1C5" stroke-width="1.6"/>
+<g stroke="#4FD1C5" stroke-width="1.8" fill="none">
+<circle cx="600.0" cy="125" r="14"/>
+<ellipse cx="600.0" cy="125" rx="6" ry="14"/>
+<line x1="586.0" y1="125" x2="614.0" y2="125"/>
+<path d="M588.0,118 Q600.0,122 612.0,118"/>
+<path d="M588.0,132 Q600.0,128 612.0,132"/>
+</g>
+<text x="600.0" y="168" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="13" letter-spacing="0.5" fill="#8DA0B0">Portfolio</text>
+<circle cx="790.0" cy="125" r="26" fill="#111820" stroke="#E8A33D" stroke-width="1.6"/>
+<g stroke="#E8A33D" stroke-width="2" fill="none">
+<rect x="775.0" y="115" width="30" height="20" rx="2"/>
+<polyline points="775.0,116 790.0,128 805.0,116"/>
+</g>
+<text x="790.0" y="168" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="13" letter-spacing="0.5" fill="#8DA0B0">Email</text>
+
+</svg>

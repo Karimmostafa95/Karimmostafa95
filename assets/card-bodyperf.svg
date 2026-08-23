@@ -1,0 +1,17 @@
+<svg viewBox="0 0 580 260" xmlns="http://www.w3.org/2000/svg">
+<rect width="580" height="260" fill="#0B0F14"/>
+<defs><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#1B232C"/></pattern></defs>
+<rect width="580" height="260" fill="url(#grid)"/>
+<defs><linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#E8A33D"/><stop offset="55%" stop-color="#E8A33D"/><stop offset="100%" stop-color="#4FD1C5"/></linearGradient></defs>
+<rect width="580" height="3" fill="url(#edge)"/>
+<circle cx="56" cy="56" r="26" fill="#111820" stroke="#E8A33D" stroke-width="1.6"/>
+<path d="M42,56 L50,56 L54,46 L58,66 L62,56 L70,56" fill="none" stroke="#E8A33D" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="96" y="48" font-family="Consolas, Menlo, monospace" font-size="11.5" letter-spacing="1" fill="#B8862F">PRODUCTION-STYLE ML PIPELINE</text>
+<text x="96" y="74" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="23" fill="#E9EEF3">Body Performance Analytics</text>
+<text x="40" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8DA0B0">14-step physiological cleaning audit on 13,393</text>
+<text x="40" y="142" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8DA0B0">athletic performance records &#8212; blood pressure,</text>
+<text x="40" y="166" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8DA0B0">flexibility, and anthropometric rule checks.</text>
+<line x1="40" y1="204" x2="540" y2="204" stroke="#1E2731"/>
+<text x="40" y="232" font-family="Consolas, Menlo, monospace" font-size="13" letter-spacing="0.3" fill="#E8A33D">13,393 &#8594; 13,278 ROWS  &#183;  7 ENGINEERED FEATURES</text>
+
+</svg>

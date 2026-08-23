@@ -1,0 +1,12 @@
+<svg viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="150" fill="#0B0F14"/>
+<defs><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#1B232C"/></pattern></defs>
+<rect width="1200" height="150" fill="url(#grid)"/>
+<text x="287.5" y="65" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="30" fill="#E9EEF3">RAW SIGNAL</text>
+<path d="M500.5,57 L522.5,57 M515.5,50 L522.5,57 L515.5,64" fill="none" stroke="#E8A33D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="553.5" y="65" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="30" fill="#E9EEF3">PATTERN</text>
+<path d="M710.7,57 L732.7,57 M725.7,50 L732.7,57 L725.7,64" fill="none" stroke="#4FD1C5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="763.7" y="65" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="30" fill="#E9EEF3">DECISION</text>
+<text x="600" y="102" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14.5" letter-spacing="0.5" fill="#8DA0B0">RADIOGRAPHS &#183; DRIVING BEHAVIOR &#183; BUSINESS DATA</text>
+
+</svg>

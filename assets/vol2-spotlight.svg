@@ -1,0 +1,33 @@
+<svg viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="340" fill="#0B0F14"/>
+<defs><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#1B232C"/></pattern></defs>
+<rect width="1200" height="340" fill="url(#grid)"/>
+<defs><linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#E8A33D"/><stop offset="55%" stop-color="#E8A33D"/><stop offset="100%" stop-color="#4FD1C5"/></linearGradient></defs>
+<rect width="1200" height="3" fill="url(#edge)"/>
+<circle cx="90" cy="90" r="30" fill="#111820" stroke="#E8A33D" stroke-width="1.6"/>
+<path d="M76,90 L84,90 L88,80 L92,100 L96,90 L104,90" fill="none" stroke="#E8A33D" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="140" y="80" font-family="Consolas, Menlo, monospace" font-size="13" letter-spacing="1.5" fill="#B8862F">FLAGSHIP PROJECT</text>
+<text x="140" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="34" fill="#E9EEF3">SmartCXR</text>
+<text x="60" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.5" fill="#8DA0B0">Multi-architecture chest X-ray classifier, benchmarked against</text>
+<text x="60" y="192" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.5" fill="#8DA0B0">Stanford&#8217;s CheXNet on the NIH ChestX-ray14 dataset (112,120 images).</text>
+<rect x="60" y="218" width="120" height="24" rx="12" fill="none" stroke="#4FD1C5" stroke-width="1.2"/>
+<text x="120.0" y="234" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="0.5" fill="#4FD1C5">PYTORCH</text>
+<rect x="190" y="218" width="130" height="24" rx="12" fill="none" stroke="#4FD1C5" stroke-width="1.2"/>
+<text x="255.0" y="234" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="0.5" fill="#4FD1C5">GRAD-CAM XAI</text>
+<rect x="330" y="218" width="150" height="24" rx="12" fill="none" stroke="#4FD1C5" stroke-width="1.2"/>
+<text x="405.0" y="234" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="0.5" fill="#4FD1C5">CONVNEXT-LARGE</text>
+<rect x="490" y="218" width="110" height="24" rx="12" fill="none" stroke="#4FD1C5" stroke-width="1.2"/>
+<text x="545.0" y="234" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="0.5" fill="#4FD1C5">AMP / FP16</text>
+<rect x="780" y="139.2588888888889" width="90" height="140.7411111111111" fill="#5B6672" opacity="0.9" rx="3"/>
+<text x="825.0" y="129.2588888888889" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9EEF3">74.51%</text>
+<text x="825.0" y="302" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="10.5" fill="#8DA0B0">NIH BASELINE</text>
+<rect x="910" y="121.0877777777778" width="90" height="158.9122222222222" fill="#8DA0B0" opacity="0.9" rx="3"/>
+<text x="955.0" y="111.0877777777778" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9EEF3">84.13%</text>
+<text x="955.0" y="302" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="10.5" fill="#8DA0B0">STANFORD CHEXNET</text>
+<rect x="1040" y="118.99111111111114" width="90" height="161.00888888888886" fill="#E8A33D" opacity="0.9" rx="3"/>
+<text x="1085.0" y="108.99111111111114" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9EEF3">85.24%</text>
+<text x="1085.0" y="302" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="10.5" fill="#8DA0B0">SMARTCXR (OURS)</text>
+<line x1="760" y1="280" x2="1145" y2="280" stroke="#1E2731" stroke-width="1"/>
+<text x="760" y="70" font-family="Consolas, Menlo, monospace" font-size="12" letter-spacing="1" fill="#3AA79C">PEAK AUC-ROC BY MODEL</text>
+
+</svg>

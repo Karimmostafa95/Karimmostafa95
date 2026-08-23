@@ -1,0 +1,57 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="300" fill="#0B0F14"/>
+<defs><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#1B232C"/></pattern></defs>
+<rect width="1200" height="300" fill="url(#grid)"/>
+<defs><linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#E8A33D"/><stop offset="55%" stop-color="#E8A33D"/><stop offset="100%" stop-color="#4FD1C5"/></linearGradient></defs>
+<rect width="1200" height="3" fill="url(#edge)"/>
+<text x="60" y="55" font-family="Consolas, Menlo, monospace" font-size="13" letter-spacing="1.5" fill="#3AA79C">COMPETENCY MATRIX</text>
+<circle cx="90" cy="105" r="26" fill="#111820" stroke="#E8A33D" stroke-width="1.6"/>
+<g stroke="#E8A33D" stroke-width="2" fill="#E8A33D">
+<line x1="79" y1="113" x2="90" y2="95"/>
+<line x1="90" y1="95" x2="101" y2="113"/>
+<line x1="79" y1="113" x2="101" y2="113"/>
+<circle cx="79" cy="113" r="3" fill="#E8A33D" stroke="none"/>
+<circle cx="90" cy="95" r="3" fill="#E8A33D" stroke="none"/>
+<circle cx="101" cy="113" r="3" fill="#E8A33D" stroke="none"/>
+</g>
+<text x="128" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="18" fill="#E9EEF3">Data &amp; Machine Learning</text>
+<circle cx="68" cy="145" r="2.5" fill="#E8A33D"/>
+<text x="82" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8DA0B0">Python / Pandas / NumPy</text>
+<circle cx="68" cy="175" r="2.5" fill="#E8A33D"/>
+<text x="82" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8DA0B0">PyTorch, CNNs, YOLO</text>
+<circle cx="68" cy="205" r="2.5" fill="#E8A33D"/>
+<text x="82" y="210" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8DA0B0">Scikit-learn</text>
+<circle cx="68" cy="235" r="2.5" fill="#E8A33D"/>
+<text x="82" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8DA0B0">Statistical analysis (SPSS)</text>
+<circle cx="470" cy="105" r="26" fill="#111820" stroke="#4FD1C5" stroke-width="1.6"/>
+<g fill="#4FD1C5">
+<rect x="457" y="105" width="6" height="12" />
+<rect x="467" y="97" width="6" height="20" />
+<rect x="477" y="101" width="6" height="16" />
+</g>
+<text x="508" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="18" fill="#E9EEF3">BI &amp; Analytics</text>
+<circle cx="448" cy="145" r="2.5" fill="#4FD1C5"/>
+<text x="462" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8DA0B0">Power BI (dashboards, DAX)</text>
+<circle cx="448" cy="175" r="2.5" fill="#4FD1C5"/>
+<text x="462" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8DA0B0">Advanced Excel</text>
+<circle cx="448" cy="205" r="2.5" fill="#4FD1C5"/>
+<text x="462" y="210" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8DA0B0">SQL &amp; relational modeling</text>
+<circle cx="448" cy="235" r="2.5" fill="#4FD1C5"/>
+<text x="462" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8DA0B0">Orange visual ML</text>
+<circle cx="850" cy="105" r="26" fill="#111820" stroke="#E8A33D" stroke-width="1.6"/>
+<g stroke="#E8A33D" stroke-width="2" fill="none">
+<polyline points="837,97 850,102 863,97 850,92 837,97"/>
+<polyline points="837,105 850,110 863,105 850,100 837,105"/>
+<polyline points="837,113 850,118 863,113 850,108 837,113"/>
+</g>
+<text x="888" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="18" fill="#E9EEF3">Tools &amp; Delivery</text>
+<circle cx="828" cy="145" r="2.5" fill="#E8A33D"/>
+<text x="842" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8DA0B0">Git &amp; GitHub</text>
+<circle cx="828" cy="175" r="2.5" fill="#E8A33D"/>
+<text x="842" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8DA0B0">Streamlit, ChromaDB</text>
+<circle cx="828" cy="205" r="2.5" fill="#E8A33D"/>
+<text x="842" y="210" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8DA0B0">Jupyter Notebook</text>
+<circle cx="828" cy="235" r="2.5" fill="#E8A33D"/>
+<text x="842" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8DA0B0">Word / PPT automation</text>
+
+</svg>
