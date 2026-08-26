@@ -13,6 +13,8 @@
   <a href="mailto:karimmostafa.9515@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-4FD1C5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<a href="https://github.com/Karimmostafa95/AI-Based_Driver_Safety_and_Assistance_System"><img src="assets/vol2b-driver-spotlight.svg" width="100%" alt="AI-Based Driver Safety and Assistance System — 86.75% mAP@0.5, deployed in-browser"></a>
+
 <a href="https://github.com/Karimmostafa95/SmartCXR"><img src="assets/vol2-spotlight.svg" width="100%" alt="SmartCXR — 85.24% AUC-ROC, beating Stanford's CheXNet"></a>
 
 <img src="assets/vol3-matrix.svg" width="100%" alt="Competency matrix — data and AI, BI and analytics, tools and delivery">
@@ -20,8 +22,6 @@
 <a href="https://github.com/Karimmostafa95/Body-Performance-Analytics"><img src="assets/card-bodyperf.svg" width="49.4%" alt="Body Performance Analytics"></a><a href="https://github.com/Karimmostafa95/E-Commerce-Database-Project"><img src="assets/card-ecommerce.svg" width="49.4%" alt="E-Commerce Database Project"></a>
 
 <a href="https://github.com/Karimmostafa95/rag-project"><img src="assets/card-rag.svg" width="100%" alt="RAG Assistant"></a>
-
-<img src="assets/vol5-frontier.svg" width="100%" alt="AI-Based Driver Safety and Assistance System — graduation project">
 
 ## Freelance Services
 
